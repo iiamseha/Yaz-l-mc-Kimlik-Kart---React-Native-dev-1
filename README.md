@@ -42,7 +42,24 @@ npx expo start
 [kimlik-karti.apk](https://expo.dev/artifacts/eas/jXoXLBWB3XHZmGmoKuksq5.apk)
 
 ## 🎥 Tanıtım Videosu
-[YouTube — yakında eklenecek]
-
+[YouTube Tanıtım Videosu](https://youtube.com/shorts/TJprtavaHVQ?si=Asc-O1ANICHStGeJ)
 ## 📸 Ekran Görüntüsü
 ![Uygulama](./screenshot.png)
+
+
+## 👥 Kullanıcı Geri Bildirim Raporu
+
+### Kullanıcı 1 — Ahmet (Öğrenci)
+- ✅ **Ne sevdi:** Rozet sistemini çok beğendi, her butona basışta bir şeyler kazanmak motive edici.
+- ⚠️ **Zorluk:** İlk açılışta butonun ne yaptığını anlamadı.
+- 💡 **İstek:** Farklı geliştiriciler arasında geçiş yapılabilse güzel olurdu.
+
+### Kullanıcı 2 — Zeynep (Öğrenci)
+- ✅ **Ne sevdi:** Animasyon çok şık, renk değişimi hoş görünüyor.
+- ⚠️ **Zorluk:** Rozet kazanınca ses efekti olmadığı için fark etmesi zor oldu.
+- 💡 **İstek:** Karanlık mod eklenebilir.
+
+### Kullanıcı 3 — Emre (Aile)
+- ✅ **Ne sevdi:** Tasarım sade ve anlaşılır, kart görünümü profesyonel.
+- ⚠️ **Zorluk:** Sayacı sıfırlamak için uygulama kapatmak gerekiyor.
+- 💡 **İstek:** "Sıfırla" butonu eklenebilir.
