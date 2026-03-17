@@ -11,7 +11,7 @@ geliştiricinin müsaitlik durumunu değiştiriyor.
 - **StyleSheet** ile Flexbox tabanlı modern kart tasarımı
 
 ## 💻 Kodun Son Hali
-🔗 [index.tsx — GitHub Gist]([(https://gist.github.com/iiamseha/4bb456ec89cdeadc3bf71f5b64c17077)])
+🔗 [index.tsx — GitHub Gist](https://gist.github.com/iiamseha/4bb456ec89cdeadc3bf71f5b64c17077)
 
 ## 📸 Ekran Görüntüsü
 ![Uygulama Ekran Görüntüsü](./screenshot.png)
